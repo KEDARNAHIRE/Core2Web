@@ -1,4 +1,4 @@
-package IfElse.ClassCode;
+package IfElse_switch.ClassCode;
 
 public class Program2 {
     public static void main(String[] args) {

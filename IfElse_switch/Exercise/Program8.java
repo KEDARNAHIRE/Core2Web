@@ -1,8 +1,10 @@
- package IfElse_switch.ClassCode;
+package IfElse_switch.Exercise;
 
-public class Program4 {
+public class Program8 {
     public static void main(String[] args) {
-        int x=90,y=45;
+        //Max of 2
+        int x = 8;
+        int y = 10;
         if(x>y){
             System.out.println("X is Greater");
         }else{
